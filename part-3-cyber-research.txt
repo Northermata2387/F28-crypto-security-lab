@@ -1,0 +1,15 @@
+Part 3 - Cybersecurity Research
+Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+- Give an overview of what the breach was and the motivations behind it.
+- Explain where the “tech flaws” were, and how hackers were able to breach their system.
+- What has the company done to protect against that vulnerability since?
+
+Linked in Data Breaches
+
+LinkedIn has had 2 data breaches in just the last decade. One in June of last year 2021 and another in June of 2012. We'll discuss the most recnt breach below. 
+
+The breach in 2021 was performed by person(s) unde the alias of “God User” who  used scraped data scraping techniques by exploiting the site’s (and others’) API before dumping a first information data set of around 500 million customers or 90% of the LinkedIn users. “God User” then boasted of selling the full 700 million customer database to malicious actors.
+
+Data scraping is a technique in which a computer program extracts data from the output generated from another program. The most common is web scraping in which a person uses an application to extract valuable information from a website.
+
+Linked in has not performed any significant action in preventing this option. They use anti-scraping mechanisms like reCAPTCHA and Cloudflare to detect automated access to their services while also banning suspicious IP addresses. But no other actions have been taken, and they take no responsilbility for the personal data that was sold to malicious actors.
